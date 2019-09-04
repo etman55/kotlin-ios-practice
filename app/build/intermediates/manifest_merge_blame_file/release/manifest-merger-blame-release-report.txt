@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.test"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:5:5-20:19
+12        android:allowBackup="true"
+12-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:10:9-35
+18        android:theme="@style/AppTheme" >
+18-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:11:9-40
+19        <activity android:name="com.example.test.MainActivity" >
+19-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:12:9-19:20
+19-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:12:19-47
+20            <intent-filter>
+20-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:14:13-18:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:15:17-69
+21-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:15:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:17:17-77
+23-->/home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:17:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

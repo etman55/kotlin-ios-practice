@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/aetman/.gradle/caches/transforms-2/files-2.1/b34e151d392cd83768ca5f23a5b73406/material-1.1.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/cbabc7661f21df114133c7b30fed2527/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/aetman/.gradle/caches/transforms-2/files-2.1/67a0932eba63813766471853bfcf04a2/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/aetman/.gradle/caches/transforms-2/files-2.1/bf4b322224ffb8ef6f8741129ea70d7c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/aetman/.gradle/caches/transforms-2/files-2.1/5de08b079ad6ae6c3fd28f3e1bd74343/viewpager2-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /home/aetman/.gradle/caches/transforms-2/files-2.1/53c0dac8ee9dcc2efa2ba4e274bd0876/recyclerview-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f994af9a7bd8699c3790d133cd176a3f/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1773cc2bf68fc7285c961a1532e9661a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/508b4f6ee6f4b59d12e21fa705614ac7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/aetman/.gradle/caches/transforms-2/files-2.1/34e3223d418bf1927eca0da75accf38a/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /home/aetman/.gradle/caches/transforms-2/files-2.1/bed71544b505b65116c5303497786ae2/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/e0d845e634633a89f9847d11de0ce70d/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/17dbcdd6a991c94247dff377d042f9c2/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/16da59173e4cae56bb8ed1cd574bd1f1/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/25122ad96c73bdd1993cc6f67fc0b0ef/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/210f7bcd82755492e2e006308f1bbc5d/fragment-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ba6f93dd922f2aad7bcb6447d05f8b8f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/8edcce269d513bd4541971bfb31d14e1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/dd4afbbc8c568fd6d786532f6c9a5927/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/d9fd400385154b380a1a4d6c672e071b/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f08b083013d4bf88eab7fce783b124c0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/97cbeb0d40d2b26faf05511456ae998f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/6ec5b38f24e1eddcc830425621ee180f/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/da8f3a68c6835ed50a04b36efb48b8b9/activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/a627643652283cfdf1ee07ec9d2e2e24/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/18548a7446ac275c999c49292bfa8581/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1169264c0c666d5592b5cbd7f61b5434/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/df1b54b1f1b7bad8331402e815e29300/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/c0151b9d65fb9c9c4dd375200e1f2941/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/49799ee577f7cefac7c1ec10d7e9fb96/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/7bd8d3a5552a5c6306c5a040c1a214b8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ce72ceea299308efba339bcdab5395f7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/52c251faa0d920a0dc5d03816a1762e4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/cad741d5b8a62e7c9db24571afec663f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/247f730a3030761540dcbe6a75f4654a/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/2d947a597ab582fc2b445cdb43c27591/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/8ead9a64c388b30a44da17c85fe440ef/savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/aetman/.gradle/caches/transforms-2/files-2.1/b34e151d392cd83768ca5f23a5b73406/material-1.1.0-alpha09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/aetman/.gradle/caches/transforms-2/files-2.1/b34e151d392cd83768ca5f23a5b73406/material-1.1.0-alpha09/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/aetman/.gradle/caches/transforms-2/files-2.1/bf4b322224ffb8ef6f8741129ea70d7c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/aetman/.gradle/caches/transforms-2/files-2.1/bf4b322224ffb8ef6f8741129ea70d7c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/49799ee577f7cefac7c1ec10d7e9fb96/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/49799ee577f7cefac7c1ec10d7e9fb96/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.test.MainActivity
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/aetman/.gradle/caches/transforms-2/files-2.1/b34e151d392cd83768ca5f23a5b73406/material-1.1.0-alpha09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/aetman/.gradle/caches/transforms-2/files-2.1/b34e151d392cd83768ca5f23a5b73406/material-1.1.0-alpha09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/cbabc7661f21df114133c7b30fed2527/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/cbabc7661f21df114133c7b30fed2527/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] /home/aetman/.gradle/caches/transforms-2/files-2.1/67a0932eba63813766471853bfcf04a2/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/aetman/.gradle/caches/transforms-2/files-2.1/67a0932eba63813766471853bfcf04a2/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/aetman/.gradle/caches/transforms-2/files-2.1/bf4b322224ffb8ef6f8741129ea70d7c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/aetman/.gradle/caches/transforms-2/files-2.1/bf4b322224ffb8ef6f8741129ea70d7c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/aetman/.gradle/caches/transforms-2/files-2.1/5de08b079ad6ae6c3fd28f3e1bd74343/viewpager2-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/aetman/.gradle/caches/transforms-2/files-2.1/5de08b079ad6ae6c3fd28f3e1bd74343/viewpager2-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /home/aetman/.gradle/caches/transforms-2/files-2.1/53c0dac8ee9dcc2efa2ba4e274bd0876/recyclerview-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /home/aetman/.gradle/caches/transforms-2/files-2.1/53c0dac8ee9dcc2efa2ba4e274bd0876/recyclerview-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f994af9a7bd8699c3790d133cd176a3f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f994af9a7bd8699c3790d133cd176a3f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1773cc2bf68fc7285c961a1532e9661a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1773cc2bf68fc7285c961a1532e9661a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/508b4f6ee6f4b59d12e21fa705614ac7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/508b4f6ee6f4b59d12e21fa705614ac7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/aetman/.gradle/caches/transforms-2/files-2.1/34e3223d418bf1927eca0da75accf38a/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/aetman/.gradle/caches/transforms-2/files-2.1/34e3223d418bf1927eca0da75accf38a/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /home/aetman/.gradle/caches/transforms-2/files-2.1/bed71544b505b65116c5303497786ae2/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/aetman/.gradle/caches/transforms-2/files-2.1/bed71544b505b65116c5303497786ae2/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/e0d845e634633a89f9847d11de0ce70d/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/e0d845e634633a89f9847d11de0ce70d/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/17dbcdd6a991c94247dff377d042f9c2/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/17dbcdd6a991c94247dff377d042f9c2/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/16da59173e4cae56bb8ed1cd574bd1f1/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/16da59173e4cae56bb8ed1cd574bd1f1/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/25122ad96c73bdd1993cc6f67fc0b0ef/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/25122ad96c73bdd1993cc6f67fc0b0ef/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/210f7bcd82755492e2e006308f1bbc5d/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/210f7bcd82755492e2e006308f1bbc5d/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ba6f93dd922f2aad7bcb6447d05f8b8f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ba6f93dd922f2aad7bcb6447d05f8b8f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/8edcce269d513bd4541971bfb31d14e1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/8edcce269d513bd4541971bfb31d14e1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/dd4afbbc8c568fd6d786532f6c9a5927/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/dd4afbbc8c568fd6d786532f6c9a5927/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/d9fd400385154b380a1a4d6c672e071b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/d9fd400385154b380a1a4d6c672e071b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f08b083013d4bf88eab7fce783b124c0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/f08b083013d4bf88eab7fce783b124c0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/97cbeb0d40d2b26faf05511456ae998f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/97cbeb0d40d2b26faf05511456ae998f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/6ec5b38f24e1eddcc830425621ee180f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/6ec5b38f24e1eddcc830425621ee180f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/da8f3a68c6835ed50a04b36efb48b8b9/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/da8f3a68c6835ed50a04b36efb48b8b9/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /home/aetman/.gradle/caches/transforms-2/files-2.1/8d69c652d4b380d402023b725fa2724e/core-1.1.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/a627643652283cfdf1ee07ec9d2e2e24/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/a627643652283cfdf1ee07ec9d2e2e24/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/18548a7446ac275c999c49292bfa8581/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/18548a7446ac275c999c49292bfa8581/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1169264c0c666d5592b5cbd7f61b5434/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/1169264c0c666d5592b5cbd7f61b5434/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/df1b54b1f1b7bad8331402e815e29300/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/df1b54b1f1b7bad8331402e815e29300/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/c0151b9d65fb9c9c4dd375200e1f2941/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/c0151b9d65fb9c9c4dd375200e1f2941/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/49799ee577f7cefac7c1ec10d7e9fb96/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/49799ee577f7cefac7c1ec10d7e9fb96/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/7bd8d3a5552a5c6306c5a040c1a214b8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/7bd8d3a5552a5c6306c5a040c1a214b8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ce72ceea299308efba339bcdab5395f7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/ce72ceea299308efba339bcdab5395f7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/52c251faa0d920a0dc5d03816a1762e4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/52c251faa0d920a0dc5d03816a1762e4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/cad741d5b8a62e7c9db24571afec663f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/aetman/.gradle/caches/transforms-2/files-2.1/cad741d5b8a62e7c9db24571afec663f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/247f730a3030761540dcbe6a75f4654a/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/247f730a3030761540dcbe6a75f4654a/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/2d947a597ab582fc2b445cdb43c27591/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/2d947a597ab582fc2b445cdb43c27591/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/8ead9a64c388b30a44da17c85fe440ef/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/aetman/.gradle/caches/transforms-2/files-2.1/8ead9a64c388b30a44da17c85fe440ef/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		ADDED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aetman/Android Projects/Test/app/src/main/AndroidManifest.xml
