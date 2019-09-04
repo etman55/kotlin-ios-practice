@@ -45,5 +45,4 @@ import-summary.txt
 manifest-merger-release-report.txt
 .idea
 .gradle
-build/
 captures/
